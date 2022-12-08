@@ -22,7 +22,7 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wenzi7777&show_icons=true&theme=react" alt="wenzi7777" /></p>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/wenzi7777/count.svg" />
+  <img src="https://count.getloli.com/get/@wenzi7777" />
 </p>
 
 
