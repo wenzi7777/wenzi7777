@@ -19,9 +19,8 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 
-<img src="https://github-readme-stats.vercel.app/api?username=wenzi7777&show_icons=true&theme=react" alt="wenzi7777" />
-
 ![](https://raw.githubusercontent.com/wenzi7777/github-stats-transparent/output/generated/languages.svg)
+<img src="https://github-readme-stats.vercel.app/api?username=wenzi7777&show_icons=true&theme=react" alt="wenzi7777" />
 
 <p align="center"> 
   <img src="https://count.getloli.com/get/@wenzi7777" />
