@@ -5,6 +5,7 @@
 - 📫 You can send me emails by wenzi7777@icloud.com
 - 🔨 Currently building: ![MPlayer](https://github.com/wenzi7777/MPlayer), MPlayer for audios
 
+<p align="center">
 **Tools I am working with:**
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -18,8 +19,9 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+</p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wenzi7777&show_icons=true&theme=react" alt="wenzi7777" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wenzi7777&show_icons=true&theme=react" alt="wenzi7777" /></p>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/wenzi7777/count.svg" />
