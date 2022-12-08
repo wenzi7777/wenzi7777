@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @wenzi7777 or you can call me Nick
+![wenzi7777's status](https://github-readme-stats.vercel.app/api?username=wenzi7777&theme=react)
+
+**Short introduction:**
+
+- 👋 Hi, I’m wenzi7777 or you can call me Nick
 - 👀 I’m interested in full stack developing.
 - 📫 You can send me emails by wenzi7777@icloud.com
 - 🔨 Currently building: MPlayer, MPlayer for audios
-
-![wenzi7777's status](https://github-readme-stats.vercel.app/api?username=wenzi7777&theme=react)
 
 **Programing languages I am working with:**
 
