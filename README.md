@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m wenzi7777 or you can call me Nick
 - 👀 I’m interested in full stack developing.
-- 📫 You can send me emails by wenzi7777@icloud.com
+- 📫 You can send me emails by wenzu7777@icloud.com
 - 🔨 Currently building: [MPlayer](https://github.com/wenzi7777/MPlayer), MPlayer for audios
 
 **Tools I am working with:**
