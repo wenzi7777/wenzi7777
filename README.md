@@ -3,7 +3,7 @@
 - 👋 Hi, I’m wenzi7777 or you can call me Nick
 - 👀 I’m interested in full stack developing.
 - 📫 You can send me emails by nickhsu@1205.moe
-- 🔨 Currently building: [MPlayer](https://github.com/wenzi7777/MPlayer), MPlayer for audios
+- 🔨 Currently building: [MPlayer](https://github.com/wenzi7777/MPlayer), AcFun Evolved Runtime
 
 **Tools I am working with:**
 
